@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... flutter
+- 🔭 I’m currently working on SilidAklatan(Library Management App)
+- 🌱 I’m currently learning laravel, react & flutter
 - 👯 I’m looking to collaborate on flutter & react.JS project 
 - 🤔 I’m looking for help with flutter and react.js
 <!-- - 💬 Ask me about ... -->
