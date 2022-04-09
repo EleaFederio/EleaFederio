@@ -6,7 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EleaFederio&repo=SilidAklatanOnline&theme=dark)](https://github.com/EleaFederio/SilidAklatanOnline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EleaFederio&repo=mis_mini_pos&theme=dark)](https://github.com/EleaFederio/mis_mini_pos)
+
 
 
 
